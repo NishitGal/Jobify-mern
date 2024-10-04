@@ -7,4 +7,4 @@ Search for Jobs: Efficient job search functionality to help users find the perfe
 Track Job Stats: Visualize job-related statistics, track application status, and monitor progress.
 This project highlights my full-stack development skills, including building RESTful APIs, integrating MongoDB for data storage, and creating dynamic, responsive UI with React.
 
-note : not an orginal idea. Inspired from mern stack course by instructor John Smilga
+
